@@ -1,0 +1,114 @@
+[
+    {
+        "id": 0,
+        "timestamp": "2026-06-13T23:03:15.804592",
+        "evento": "Genesis Block",
+        "hash_anterior": "0",
+        "hash_atual": "98198c6a28a747cea90d3389c060d29636a3c4c0f96c8505cd4e734e8588e692"
+    },
+    {
+        "id": 1,
+        "timestamp": "2026-06-13T23:03:22.867949",
+        "evento": "Usu\u00e1rio vinicius criado com perfil admin",
+        "hash_anterior": "98198c6a28a747cea90d3389c060d29636a3c4c0f96c8505cd4e734e8588e692",
+        "hash_atual": "4bc1af576c7b64ae35aa1bb916f7689b1bdb7c486ee57016cbfa6616e670eaef"
+    },
+    {
+        "id": 2,
+        "timestamp": "2026-06-13T23:03:40.181727",
+        "evento": "LOGIN HACKER",
+        "hash_anterior": "4bc1af576c7b64ae35aa1bb916f7689b1bdb7c486ee57016cbfa6616e670eaef",
+        "hash_atual": "c5d0d0b9bd8c3c9c04edcac281dd14edd854513b2af101add4342eced7eaffbd"
+    },
+    {
+        "id": 3,
+        "timestamp": "2026-06-13T23:17:38.809048",
+        "evento": "ARQUIVO CRIADO: arquivo1.txt",
+        "hash_anterior": "c5d0d0b9bd8c3c9c04edcac281dd14edd854513b2af101add4342eced7eaffbd",
+        "hash_atual": "ae5bd0f666fb4547c3e34498d19c877f3aceb9102db996f1e4681195cdeefe05"
+    },
+    {
+        "id": 4,
+        "timestamp": "2026-06-13T23:18:12.441043",
+        "evento": "ARQUIVO ALTERADO: arquivo1.txt",
+        "hash_anterior": "ae5bd0f666fb4547c3e34498d19c877f3aceb9102db996f1e4681195cdeefe05",
+        "hash_atual": "0820da8428dc0ab417d851b8fce56718407197abecfba390c03f81068387aa5e"
+    },
+    {
+        "id": 5,
+        "timestamp": "2026-06-13T23:18:54.273165",
+        "evento": "ARQUIVO REMOVIDO: arquivo1.txt",
+        "hash_anterior": "0820da8428dc0ab417d851b8fce56718407197abecfba390c03f81068387aa5e",
+        "hash_atual": "d8d882948b418c0a16e0055de8e73b5ee089b933c168490a3d02688229a64ea0"
+    },
+    {
+        "id": 6,
+        "timestamp": "2026-06-13T23:26:25.800854",
+        "evento": "ALERTA: Bloco 2 adulterado (hash inv\u00e1lido)",
+        "hash_anterior": "d8d882948b418c0a16e0055de8e73b5ee089b933c168490a3d02688229a64ea0",
+        "hash_atual": "619c6e024bd173fa8cb64a9ff179e74fb50498986fbeb225d74c4bbc0f9f3253"
+    },
+    {
+        "id": 7,
+        "timestamp": "2026-06-13T23:33:17.823490",
+        "evento": "Relat\u00f3rio de auditoria gerado: auditoria/relatorios/auditoria_20260613_233317.txt",
+        "hash_anterior": "619c6e024bd173fa8cb64a9ff179e74fb50498986fbeb225d74c4bbc0f9f3253",
+        "hash_atual": "f2ab8d982f0dc0fc83ddef666a33cf159a157f0cfcb3533d27c2b56c6eb4d2f3"
+    },
+    {
+        "id": 8,
+        "timestamp": "2026-06-13T23:41:53.830082",
+        "evento": "Backup seguro executado: tar: Removendo \"/\" inicial dos nomes dos membros\n*** WARNING : deprecated key derivation used.\nUsing -iter or -pbkdf2 would be better.\n/opt/securechain/backup/backup_20260613_234153.tar.gz.enc",
+        "hash_anterior": "f2ab8d982f0dc0fc83ddef666a33cf159a157f0cfcb3533d27c2b56c6eb4d2f3",
+        "hash_atual": "c4455a4c6f95f8bd57f0fdde1ec71f4288e1f0f01dd664659a9d28b4b1f6f469"
+    },
+    {
+        "id": 9,
+        "timestamp": "2026-06-14T00:06:54.237019",
+        "evento": "Usu\u00e1rio Rafael criado com perfil admin",
+        "hash_anterior": "c4455a4c6f95f8bd57f0fdde1ec71f4288e1f0f01dd664659a9d28b4b1f6f469",
+        "hash_atual": "f86d5bb5aa6c9222d53eba125c6bb4e9fbe121b58c247dbf0a1a2796e1b635cd"
+    },
+    {
+        "id": 10,
+        "timestamp": "2026-06-14T00:08:32.743361",
+        "evento": "Login realizado por Rafael",
+        "hash_anterior": "f86d5bb5aa6c9222d53eba125c6bb4e9fbe121b58c247dbf0a1a2796e1b635cd",
+        "hash_atual": "5789e91eca1b54f812208436e95449cada164a427deab8919853f6e0e4ec3458"
+    },
+    {
+        "id": 11,
+        "timestamp": "2026-06-14T00:12:03.696533",
+        "evento": "Baseline de integridade criada",
+        "hash_anterior": "5789e91eca1b54f812208436e95449cada164a427deab8919853f6e0e4ec3458",
+        "hash_atual": "9601a9560980aa130913f376c7c7a46ca0ae90f56dadc22a15bcfbc5794d442a"
+    },
+    {
+        "id": 12,
+        "timestamp": "2026-06-14T00:14:00.168897",
+        "evento": "ARQUIVO CRIADO: arquivo1.txt",
+        "hash_anterior": "9601a9560980aa130913f376c7c7a46ca0ae90f56dadc22a15bcfbc5794d442a",
+        "hash_atual": "596bc8679e38ed8b4964c1e02cdcd9914c8e3919867ed8c81ee7f5abd37c1ffa"
+    },
+    {
+        "id": 13,
+        "timestamp": "2026-06-14T00:14:50.193132",
+        "evento": "ARQUIVO CRIADO: arquivoteste.txt",
+        "hash_anterior": "596bc8679e38ed8b4964c1e02cdcd9914c8e3919867ed8c81ee7f5abd37c1ffa",
+        "hash_atual": "2823810260b967837fc08d81546cc26bd3c748393da94cee421ad8e50a428b96"
+    },
+    {
+        "id": 14,
+        "timestamp": "2026-06-14T00:16:29.465115",
+        "evento": "ARQUIVO ALTERADO: arquivoteste.txt",
+        "hash_anterior": "2823810260b967837fc08d81546cc26bd3c748393da94cee421ad8e50a428b96",
+        "hash_atual": "db999ec96af6f16a7ab5ad33f0ec7653c44676bf101725207f731f0230c5e38a"
+    },
+    {
+        "id": 15,
+        "timestamp": "2026-06-14T00:18:25.129088",
+        "evento": "ARQUIVO REMOVIDO: arquivoteste.txt",
+        "hash_anterior": "db999ec96af6f16a7ab5ad33f0ec7653c44676bf101725207f731f0230c5e38a",
+        "hash_atual": "b9bb65732315c5f427aabc1ebab9392e5bdbcb79d534a7a4575c34152587012d"
+    }
+]
