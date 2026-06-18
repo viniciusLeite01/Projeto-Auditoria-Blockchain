@@ -1,0 +1,12 @@
+[
+    {
+        "usuario": "vinicius",
+        "senha": "$2b$12$MDA2YY8ZSnWyzjhV55ECm.FzCVTLOBmc4xKAU.OtFtVbvJ1S1oYyy",
+        "perfil": "admin"
+    },
+    {
+        "usuario": "Rafael",
+        "senha": "$2b$12$4qkUC/NBJ/fDRFD9UHI.3OnnB02TnXIDQA2vkQtwLQQSlPrcKWN2.",
+        "perfil": "admin"
+    }
+]
