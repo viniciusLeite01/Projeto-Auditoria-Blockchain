@@ -1,6 +1,7 @@
 Projeto Auditoria Blockchain - Desenvolvido para a disciplina de Segurança de sistemas computacionais
 
 Integrantes:
+- MARCOS HENRIQUE FORTI GOBETTE
 - THIAGO RODRIGUES FONSECA MARTINS
 - RAFAEL ANTONIO SCHIRNER DARGONI
 - VINICIUS AUGUSTO CORREA LEITE
